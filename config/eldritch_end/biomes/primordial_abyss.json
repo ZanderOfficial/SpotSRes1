@@ -1,9 +1,8 @@
 {
   "enabled": true,
-  "enable_midlands": false,
   "spawn_endermen": false,
   "spawn_aberrations": true,
-  "biome_weight": 4.0,
+  "biome_weight": 1.5,
   "biome_temperature": 1.0,
   "enable_tendril_patches": true,
   "tendril_patch_chance": 10,

@@ -1,5 +1,5 @@
 {
-  "show_icon_only_when_corrupted": false,
+  "show_icon_only_when_corrupted": true,
   "temporary_corruption_amount_per_stack": 10,
   "maximum_corruption": 200,
   "maximum_etyr_resistance": 100,

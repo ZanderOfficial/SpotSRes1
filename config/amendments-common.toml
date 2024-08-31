@@ -33,14 +33,14 @@
 	[cauldron.inverse_potions]
 		"minecraft:mining_fatigue" = "minecraft:haste"
 		"minecraft:unluck" = "minecraft:luck"
-		"minecraft:instant_damage" = "minecraft:instant_health"
-		"minecraft:slowness" = "minecraft:speed"
 		"minecraft:instant_health" = "minecraft:instant_damage"
-		"minecraft:haste" = "minecraft:mining_fatigue"
+		"minecraft:slowness" = "minecraft:speed"
 		"minecraft:weakness" = "minecraft:strength"
-		"minecraft:luck" = "minecraft:unluck"
 		"minecraft:strength" = "minecraft:weakness"
+		"minecraft:haste" = "minecraft:mining_fatigue"
+		"minecraft:instant_damage" = "minecraft:instant_health"
 		"minecraft:speed" = "minecraft:slowness"
+		"minecraft:luck" = "minecraft:unluck"
 
 [tripwire_hook]
 	#Allows placing tools on tripwire hooks

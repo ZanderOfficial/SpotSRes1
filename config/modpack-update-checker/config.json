@@ -1,15 +1,13 @@
 {
-  "schemaVersion": 7,
-  "currentVersion": "1.0.0",
-  "modpackName": "Modpack Name Goes Here",
-  "modpackAuthor": "My Modpack Studio",
-  "modpackReleaseType": "stable",
-  "updateCheckerId": "https://raw.githubusercontent.com/Modpack-Update-Checker/example-update-checker/main/",
+  "schemaVersion": 4,
+  "currentVersion": "v30.5",
+  "modpackName": "BMC4 Forge",
+  "modpackAuthor": "Luna Pixel Studios",
+  "githubRepo": "https://raw.githubusercontent.com/LunaPixelStudios/Modpack-Update-Checker/new/bmc4forge/",
   "advanced": {
-    "bccEnabled": false,
-    "expandButton": false,
+    "bccEnabled": true,
+    "expandButton": true,
     "updateCheckerType": 2,
-    "retroWarning": false,
-    "modpackMods": []
+    "showAllChangelogsIfUpToDate": false
   }
 }
