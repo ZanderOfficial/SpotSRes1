@@ -13,7 +13,7 @@ menu_blacklist = []
 #Begin with '!' to exclude matches, list those exclusions after entries that would otherwise include them.
 paths = ["textures/gui/*", "!minecraft:textures/gui/icons.png", "!minecraft:textures/gui/options_background.png", "textures/gui/container/*", "minecraft:textures/gui/container/creative_inventory/*", "trinkets:textures/gui/slots/*", "craftingtweaks:gui.png", "dankstorage:textures/container/gui/*", "ae2:textures/guis/*"]
 #Use a dark theme for the configuration screens.
-dark_theme = true
+dark_theme = false
 #Percentage of original interface brightness to apply.
 #Range: 0.0 ~ 1.0
 texture_darkness = 0.5
@@ -23,8 +23,4 @@ font_brightness = 0.75
 #Algorithm selector for darkening interface pixels.
 #Allowed Values: GRAYSCALE_AND_HSP, HSP, GRAYSCALE_AND_HSL, HSL, GRAYSCALE_AND_LINEAR, LINEAR
 darkening_algorithm = "GRAYSCALE_AND_HSP"
-#Print screen identifier to game chat or log file whenever a new screen is opened. Intended for finding screens to be added to "font_color_blacklist".
-debug_all_screens = false
-#Exclude certain screens from being affected by any text color alterations.
-font_color_blacklist = ["chat_screen.title", "sign.edit", "hanging_sign.edit", "book.edit", "book.view"]
 
