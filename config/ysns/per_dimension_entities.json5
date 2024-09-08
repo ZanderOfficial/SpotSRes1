@@ -21,9 +21,9 @@
   // Regex works on both entity and dimension entries.
   "dimensions": [
     {
-      "entityId": "mowziesmobs:naga",
-      "dimension": "minecraft:*",
-      "spawn_chance": 0.5
+      "entityId": "minecraft:zombie",
+      "dimension": "minecraft:overworld",
+      "spawn_chance": 1.0
     }
   ],
   // Don't touch this!

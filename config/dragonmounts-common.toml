@@ -12,7 +12,7 @@
 	#Useful for multiplayer scenarios and offering alternative ways to obtain eggs.
 	#Egg chance values can be modified below. If you'd like to change the loot tables the eggs appear
 	#in, consider using a datapack, since the static nature of configs complicates things.
-	use_loot_tables = true
+	use_loot_tables = false
 	#Should Dragon Eggs adapt to their environments and change breeds?
 	update_habitats = true
 

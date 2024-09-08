@@ -8,15 +8,11 @@
 	#Sends when you open a Gui, and what Gui
 	sendActiveGui = true
 	#Sends when you go idle / return
-	sendIdleState = false
+	sendIdleState = true
 	#Enables or disables idle visual in the server player list tab screen
-	showIdleStatesInPlayerList = false
+	showIdleStatesInPlayerList = true
 	#Enables or disables idle visual above player head
-	showIdleStatesInPlayerAboveHead = false
-	#Plays a sound when a player opens some Guis
-	playScreenOpenSounds = true
-	#Plays a sutble sound when a player clicks their mouse in a Gui
-	playMouseClickSounds = true
+	showIdleStatesInPlayerAboveHead = true
 	#Setting false disables all animations
 	showPlayerAnimations = true
 	#Enables or disables typing animation
@@ -46,4 +42,8 @@
 	screenTypingMultiplePlayersText = "Several people are typing"
 	#String to use next to the typing player(s) name
 	screenTypingText = " is typing"
+	#Plays a sound when a player opens some Guis
+	playScreenOpenSounds = true
+	#Plays a sutble sound when a player clicks their mouse in a Gui
+	playMouseClickSounds = true
 
