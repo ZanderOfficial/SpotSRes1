@@ -1,0 +1,15 @@
+{
+	id: "a2af6f2f-7563-4273-8bba-3d2b349475aa"
+	type: "player"
+	player_name: "Metsfan20"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Metsfan20"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9A59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
