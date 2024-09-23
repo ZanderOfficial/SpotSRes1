@@ -40,19 +40,6 @@
 			maple = true
 			comet = true
 
-		[types.leaves_type.twilightforest]
-			beanstalk = true
-			thorn = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.leaves_type.chipped]
 			apple_acacia = true
 			cherry_acacia = true
@@ -121,16 +108,6 @@
 			golden_apple_oak = true
 			golden_apple_spruce = true
 
-		[types.leaves_type.eldritch_end]
-			primordial = true
-
-		[types.leaves_type.betterend]
-			pythadendron = true
-			lacugrove = true
-			dragon_tree = true
-			tenanea = true
-			lucernia = true
-
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
@@ -156,11 +133,34 @@
 			gilded_oak = true
 			blighted_skyroot = true
 
+		[types.leaves_type.deeperdarker]
+			echo = true
+
+		[types.leaves_type.twilightforest]
+			beanstalk = true
+			thorn = true
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			rainbow_oak = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
+
 		[types.leaves_type.twilightdelight]
 			ironwood = true
 
-		[types.leaves_type.deeperdarker]
-			echo = true
+		[types.leaves_type.eldritch_end]
+			primordial = true
+
+		[types.leaves_type.betterend]
+			pythadendron = true
+			lacugrove = true
+			dragon_tree = true
+			tenanea = true
+			lucernia = true
 
 		[types.leaves_type.quark]
 			ancient = true
@@ -169,15 +169,6 @@
 			orange_blossom = true
 			yellow_blossom = true
 			red_blossom = true
-
-	[types.cake]
-
-		[types.cake.blue_skies]
-			comet_berry_pie = true
-
-		[types.cake.createaddition]
-			chocolate_cake = true
-			honey_cake = true
 
 	[types.wood_type]
 
@@ -193,6 +184,52 @@
 			dusk = true
 			maple = true
 			comet = true
+
+		[types.wood_type.biomesoplenty]
+			fir = true
+			redwood = true
+			mahogany = true
+			jacaranda = true
+			palm = true
+			willow = true
+			dead = true
+			magic = true
+			umbran = true
+			hellbark = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.deep_aether]
+			roseroot = true
+			yagroot = true
+			cruderoot = true
+			conberry = true
+			sunroot = true
+
+		[types.wood_type.aether_redux]
+			fieldsproot = true
+			blightwillow = true
+			cloudcap = true
+			jellyshroom = true
+			crystal = true
+			glacia = true
+
+		[types.wood_type.deeperdarker]
+			echo = true
+
+		[types.wood_type.createdieselgenerators]
+			chip_wood = true
+
+		[types.wood_type.twilightforest]
+			twilight_oak = true
+			canopy = true
+			mangrove = true
+			dark = true
+			time = true
+			transformation = true
+			mining = true
+			sorting = true
 
 		[types.wood_type.gardens_of_the_dead]
 			soulblight = true
@@ -218,51 +255,17 @@
 			jellyshroom = true
 			lucernia = true
 
-		[types.wood_type.biomesoplenty]
-			fir = true
-			redwood = true
-			mahogany = true
-			jacaranda = true
-			palm = true
-			willow = true
-			dead = true
-			magic = true
-			umbran = true
-			hellbark = true
-
-		[types.wood_type.aether]
-			skyroot = true
-
-		[types.wood_type.deep_aether]
-			roseroot = true
-			yagroot = true
-			cruderoot = true
-			conberry = true
-			sunroot = true
-
-		[types.wood_type.twilightforest]
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.wood_type.cataclysm]
 			chorus = true
 
-		[types.wood_type.aether_redux]
-			fieldsproot = true
-			blightwillow = true
-			cloudcap = true
-			jellyshroom = true
-			crystal = true
-			glacia = true
+	[types.cake]
 
-		[types.wood_type.deeperdarker]
-			echo = true
+		[types.cake.blue_skies]
+			comet_berry_pie = true
+
+		[types.cake.createaddition]
+			chocolate_cake = true
+			honey_cake = true
 
 	[types.cut_block_type]
 
@@ -272,6 +275,55 @@
 			polished_spire_stone = true
 			polished_spire_stone_brick = true
 			polished_spire_stone_tile = true
+
+		[types.cut_block_type.createdeco]
+			short_red_brick = true
+			tiled_red_brick = true
+			long_red_brick = true
+			cracked_red_brick = true
+			mossy_red_brick = true
+			blue_brick = true
+			short_blue_brick = true
+			tiled_blue_brick = true
+			long_blue_brick = true
+			cracked_blue_brick = true
+			mossy_blue_brick = true
+			scarlet_brick = true
+			short_scarlet_brick = true
+			tiled_scarlet_brick = true
+			long_scarlet_brick = true
+			cracked_scarlet_brick = true
+			mossy_scarlet_brick = true
+			verdant_brick = true
+			short_verdant_brick = true
+			tiled_verdant_brick = true
+			long_verdant_brick = true
+			cracked_verdant_brick = true
+			mossy_verdant_brick = true
+			umber_brick = true
+			short_umber_brick = true
+			tiled_umber_brick = true
+			long_umber_brick = true
+			cracked_umber_brick = true
+			mossy_umber_brick = true
+			pearl_brick = true
+			short_pearl_brick = true
+			tiled_pearl_brick = true
+			long_pearl_brick = true
+			cracked_pearl_brick = true
+			mossy_pearl_brick = true
+			dean_brick = true
+			short_dean_brick = true
+			tiled_dean_brick = true
+			long_dean_brick = true
+			cracked_dean_brick = true
+			mossy_dean_brick = true
+			dusk_brick = true
+			short_dusk_brick = true
+			tiled_dusk_brick = true
+			long_dusk_brick = true
+			cracked_dusk_brick = true
+			mossy_dusk_brick = true
 
 		[types.cut_block_type.stalwart_dungeons]
 			soul_bricks = true
@@ -423,6 +475,36 @@
 			quartz_paver = true
 			quartz_plate = true
 
+		[types.cut_block_type.design_decor]
+			granite_castel_brick = true
+			diorite_castel_brick = true
+			andesite_castel_brick = true
+			calcite_castel_brick = true
+			dripstone_castel_brick = true
+			deepslate_castel_brick = true
+			tuff_castel_brick = true
+			asurine_castel_brick = true
+			crimsite_castel_brick = true
+			limestone_castel_brick = true
+			ochrum_castel_brick = true
+			scoria_castel_brick = true
+			scorchia_castel_brick = true
+			veridium_castel_brick = true
+			granite_castel_tile = true
+			diorite_castel_tile = true
+			andesite_castel_tile = true
+			calcite_castel_tile = true
+			dripstone_castel_tile = true
+			deepslate_castel_tile = true
+			tuff_castel_tile = true
+			asurine_castel_tile = true
+			crimsite_castel_tile = true
+			limestone_castel_tile = true
+			ochrum_castel_tile = true
+			scoria_castel_tile = true
+			scorchia_castel_tile = true
+			veridium_castel_tile = true
+
 		[types.cut_block_type.biomesoplenty]
 			white_sandstone = true
 			smooth_white_sandstone = true
@@ -444,6 +526,10 @@
 			magic = true
 			umbran = true
 			hellbark = true
+
+		[types.cut_block_type.create_things_and_misc]
+			brass_tiles = true
+			brass_brick = true
 
 		[types.cut_block_type.blue_skies]
 			nature_stone = true
@@ -867,30 +953,7 @@
 #Disables specific entries
 [entries]
 
-	[entries.leaves_type]
-
-		[entries.leaves_type.quark]
-			hedge = true
-			leaf_carpet = true
-
 	[entries.wood_type]
-
-		[entries.wood_type.handcrafted]
-			counter = true
-			corner_trim = true
-			fancy_bed = true
-			desk = true
-			dining_bench = true
-			drawer = true
-			side_table = true
-			couch = true
-			table = true
-			chair = true
-			shelf = true
-			cupboard = true
-			bench = true
-			pillar_trim = true
-			nightstand = true
 
 		[entries.wood_type.chipped]
 			fine_planks = true
@@ -1013,6 +1076,51 @@
 			golden_barred_trapdoor = true
 			nailed_log = true
 
+		[entries.wood_type.decorative_blocks]
+			seat = true
+			palisade = true
+			beam = true
+			support = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.backpacked]
+			backpack_shelf = true
+
+		[entries.wood_type.twilightforest]
+			banister = true
+			hollow_log_climbable = true
+			hollow_log_horizontal = true
+			hollow_log_vertical = true
+
+		[entries.wood_type.twigs]
+			table = true
+
+		[entries.wood_type.villagersplus]
+			horticulturist_table = true
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			dining_bench = true
+			drawer = true
+			side_table = true
+			couch = true
+			table = true
+			chair = true
+			shelf = true
+			cupboard = true
+			bench = true
+			pillar_trim = true
+			nightstand = true
+
 		[entries.wood_type.quark]
 			vertical_planks = true
 			ladder = true
@@ -1023,12 +1131,6 @@
 			bookshelf = true
 			stripped_post = true
 
-		[entries.wood_type.twilightforest]
-			banister = true
-			hollow_log_climbable = true
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
-
 		[entries.wood_type.another_furniture]
 			flower_box = true
 			shutter = true
@@ -1038,15 +1140,6 @@
 			table = true
 			chair = true
 
-		[entries.wood_type.decorative_blocks]
-			seat = true
-			palisade = true
-			beam = true
-			support = true
-
-		[entries.wood_type.farmersdelight]
-			cabinet = true
-
 		[entries.wood_type.hearth_and_home]
 			lattice = true
 			sanded_wood = true
@@ -1054,23 +1147,16 @@
 			vertical_trim = true
 			trim = true
 
-		[entries.wood_type.twigs]
-			table = true
-
 		[entries.wood_type.boatload]
 			large_boat = true
 			furnace_boat = true
 
-		[entries.wood_type.create]
-			window_pane = true
-			window = true
-
-		[entries.wood_type.backpacked]
-			backpack_shelf = true
-
-		[entries.wood_type.villagersplus]
-			horticulturist_table = true
-
 		[entries.wood_type.friendsandfoes]
 			beehive = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
 
